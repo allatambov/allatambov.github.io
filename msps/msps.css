@@ -14,6 +14,7 @@ table {
   border-collapse: collapse;
   background-color: #dcdcfa;
   margin: 20pt;
+  width: 80%;
 }
 
 table, th, td {
@@ -27,7 +28,7 @@ td, th {
 }
 
 th {
-  background-color: #e47312;
+  background-color: #f39422;
 }
 
 tr:hover {
@@ -45,6 +46,10 @@ div.text {
   margin-top: 10pt;
 }
 
+a {
+  text-decoration: none;
+}
+
 .header {
   background: linear-gradient(#003366, #000000);
   padding: 50pt;
@@ -57,21 +62,6 @@ div.text {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-.head {
-  padding: 4pt;
-  background: #003566; 
-  color: white;
-  border-radius: 5pt 5pt 0pt 0pt;
-}
-
-.tail {
-  display: block;
-  padding: 5pt;
-  margin: 5pt;
-  height: 10%;
-  color: white;
 }
 
 .topnav {
@@ -94,6 +84,10 @@ div.text {
   background: #666699;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 
   0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.topnav a.active {
+  background: #c70d3a;
 }
 
 .left {
@@ -134,6 +128,3 @@ div.text {
   background: #b35a0c; 
 }
 
-a {
-  text-decoration: none;
-}
