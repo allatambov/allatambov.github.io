@@ -1,0 +1,139 @@
+body {
+  background-color: black;
+}
+
+h1, h2, h3, p, ul li, td, th {
+  font-family: Trebuchet MS, sans-serif;
+}
+
+ul li{
+  padding: 3pt;
+}
+
+table {
+  border-collapse: collapse;
+  background-color: #dcdcfa;
+  margin: 20pt;
+}
+
+table, th, td {
+  border: 1px solid black;
+  margin-left:auto; 
+  margin-right:auto;
+}
+
+td, th {
+  padding: 5px;
+}
+
+th {
+  background-color: #e47312;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+div.tab {
+  white-space: pre;
+  vertical-align: middle;
+}
+
+div.text {
+  background: #dcdcfa;
+  padding: 5pt;
+  margin-top: 10pt;
+}
+
+.header {
+  background: linear-gradient(#003366, #000000);
+  padding: 50pt;
+  margin: 0pt;
+  color: white;
+}
+
+
+.icon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.head {
+  padding: 4pt;
+  background: #003566; 
+  color: white;
+  border-radius: 5pt 5pt 0pt 0pt;
+}
+
+.tail {
+  display: block;
+  padding: 5pt;
+  margin: 5pt;
+  height: 10%;
+  color: white;
+}
+
+.topnav {
+  background: #000000;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  width: 15%;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 17px;
+  color: white;
+}
+
+.topnav a:hover {
+  background: #666699;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 
+  0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.left {
+  background: #dcdcfa;
+  float: left;
+  width: 31%;
+  height: 300px;
+  margin: 10pt;
+  border-radius: 5pt;
+}
+
+.middle {
+  background: #dcdcfa;
+  float: left;
+  width: 31%;
+  height: 300px;
+  margin: 10pt;
+  border-radius: 5pt;
+}
+
+.right {
+  background: #dcdcfa;
+  float: left;
+  width: 31%;
+  height: 300px;
+  margin: 10pt;
+  border-radius: 5pt;
+}
+
+.head {
+  padding: 4pt;
+  background: #e47312; 
+  border-radius: 5pt 5pt 0pt 0pt;
+  text-align: center;
+}
+
+.head:hover{
+  background: #b35a0c; 
+}
+
+a {
+  text-decoration: none;
+}
