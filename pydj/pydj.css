@@ -54,13 +54,16 @@ a {
   text-decoration: none;
 }
 
+a:visited {
+  color: blue;
+}
+
 .header {
   background: linear-gradient(#003366, #000000);
   padding: 50pt;
   margin: 0pt;
   color: white;
 }
-
 
 .icon {
   display: block;
@@ -134,5 +137,8 @@ a {
 
 .end {
   color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
