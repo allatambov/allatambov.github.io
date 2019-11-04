@@ -52,10 +52,7 @@ div.end {
 
 a {
   text-decoration: none;
-}
-
-a:visited {
-  color: blue;
+  color: #000099;
 }
 
 .header {
