@@ -29,3 +29,107 @@
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel 27b4d492-cc15-429c-a34c-4364fed08a8f
 [NotebookApp | INFO] Saving file at /hw/homework1.ipynb
 [NotebookApp | INFO] Starting buffering for 27b4d492-cc15-429c-a34c-4364fed08a8f:56166433a76c4d0f850630b95aa0b028
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io/pydj
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=118c7033dd45684b9e7db811cc6d1751eeec7fa369d409ff
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=118c7033dd45684b9e7db811cc6d1751eeec7fa369d409ff&token=118c7033dd45684b9e7db811cc6d1751eeec7fa369d409ff
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 118bd3f6-4e5a-46ea-b364-694e40937e88
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 118bd3f6-4e5a-46ea-b364-694e40937e88
+[NotebookApp | INFO] Saving file at /seminars/intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-types-en.ipynb
+[NotebookApp | INFO] Starting buffering for 118bd3f6-4e5a-46ea-b364-694e40937e88:86fa05d0b28c44a39bb1745068db8c7b
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1cbc52e8-e2c2-4376-9c52-0499feb55f5d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1cbc52e8-e2c2-4376-9c52-0499feb55f5d
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /seminars/intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 1cbc52e8-e2c2-4376-9c52-0499feb55f5d:69a06a258cc44a2cba191309b6950bde
+[NotebookApp | INFO] Kernel started: 95e42a2f-1d74-4f9c-aa05-c88e99d0cfca
+[NotebookApp | INFO] 302 GET /notebooks/seminars/test.png (::1) 2.30ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 95e42a2f-1d74-4f9c-aa05-c88e99d0cfca
+[NotebookApp | INFO] Starting buffering for 95e42a2f-1d74-4f9c-aa05-c88e99d0cfca:05a5d2494a0848d98706b5f431f808da
+[NotebookApp | INFO] Copying seminars/intro-jupyter.ipynb to /seminars
+[NotebookApp | INFO] Kernel started: 4b626f13-1dab-47cf-a045-9a9fb935e819
+[NotebookApp | INFO] 302 GET /notebooks/seminars/test.png (::1) 1.50ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4b626f13-1dab-47cf-a045-9a9fb935e819
+[NotebookApp | INFO] Starting buffering for 4b626f13-1dab-47cf-a045-9a9fb935e819:004837a31edd4dfb8d8f8fac7c328f43
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4b626f13-1dab-47cf-a045-9a9fb935e819
+[NotebookApp | INFO] Restoring connection for 4b626f13-1dab-47cf-a045-9a9fb935e819:004837a31edd4dfb8d8f8fac7c328f43
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Starting buffering for 4b626f13-1dab-47cf-a045-9a9fb935e819:004837a31edd4dfb8d8f8fac7c328f43
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4b626f13-1dab-47cf-a045-9a9fb935e819
+[NotebookApp | INFO] Restoring connection for 4b626f13-1dab-47cf-a045-9a9fb935e819:004837a31edd4dfb8d8f8fac7c328f43
+[NotebookApp | INFO] Starting buffering for 4b626f13-1dab-47cf-a045-9a9fb935e819:004837a31edd4dfb8d8f8fac7c328f43
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4b626f13-1dab-47cf-a045-9a9fb935e819
+[NotebookApp | INFO] Restoring connection for 4b626f13-1dab-47cf-a045-9a9fb935e819:004837a31edd4dfb8d8f8fac7c328f43
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | WARNING] Notebook seminars/intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1cbc52e8-e2c2-4376-9c52-0499feb55f5d
+[NotebookApp | INFO] Starting buffering for 1cbc52e8-e2c2-4376-9c52-0499feb55f5d:afb2d3d3e39840fc85511dc3a13e5e1e
+[NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
+[NotebookApp | INFO] Starting buffering for 4b626f13-1dab-47cf-a045-9a9fb935e819:004837a31edd4dfb8d8f8fac7c328f43
