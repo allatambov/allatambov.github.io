@@ -133,3 +133,116 @@
 [NotebookApp | INFO] Starting buffering for 1cbc52e8-e2c2-4376-9c52-0499feb55f5d:afb2d3d3e39840fc85511dc3a13e5e1e
 [NotebookApp | INFO] Saving file at /seminars/intro-jupyter-en.ipynb
 [NotebookApp | INFO] Starting buffering for 4b626f13-1dab-47cf-a045-9a9fb935e819:004837a31edd4dfb8d8f8fac7c328f43
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io/pydj
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=72afccda76e26e9f967bc09576f1d2589100ff088f2fe58f
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=72afccda76e26e9f967bc09576f1d2589100ff088f2fe58f
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/allat/Library/Jupyter/runtime/nbserver-3922-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=72afccda76e26e9f967bc09576f1d2589100ff088f2fe58f
+     or http://127.0.0.1:8888/?token=72afccda76e26e9f967bc09576f1d2589100ff088f2fe58f
+[NotebookApp | WARNING] Notebook seminars/seminar-intro-en.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a672ba28-f581-43b4-bf41-050535a6cbd0
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (2/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (3/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (4/5), new random ports
+[NotebookApp | WARNING] KernelRestarter: restart failed
+[NotebookApp | WARNING] Kernel a672ba28-f581-43b4-bf41-050535a6cbd0 died, removing from map.
+[NotebookApp | WARNING] Timeout waiting for kernel_info reply from a672ba28-f581-43b4-bf41-050535a6cbd0
+[NotebookApp | ERROR] Error opening stream: HTTP 404: Not Found (Kernel does not exist: a672ba28-f581-43b4-bf41-050535a6cbd0)
+[NotebookApp | WARNING] 404 GET /api/kernels/a672ba28-f581-43b4-bf41-050535a6cbd0/channels?session_id=adf2feb642144ef9bd86be246d7b90bd (::1): Kernel does not exist: a672ba28-f581-43b4-bf41-050535a6cbd0
+[NotebookApp | WARNING] 404 GET /api/kernels/a672ba28-f581-43b4-bf41-050535a6cbd0/channels?session_id=adf2feb642144ef9bd86be246d7b90bd (::1) 18.86ms referer=None
+[NotebookApp | WARNING] Replacing stale connection: a672ba28-f581-43b4-bf41-050535a6cbd0:adf2feb642144ef9bd86be246d7b90bd
+[NotebookApp | INFO] Saving file at /seminars/seminar-intro-en.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io/pydj
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=7028ece9d3d21f63f756e9e08fcebdeb4a4dcc29f49097d1
+[NotebookApp | INFO]  or http://127.0.0.1:8889/?token=7028ece9d3d21f63f756e9e08fcebdeb4a4dcc29f49097d1
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/allat/Library/Jupyter/runtime/nbserver-4030-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=7028ece9d3d21f63f756e9e08fcebdeb4a4dcc29f49097d1
+     or http://127.0.0.1:8889/?token=7028ece9d3d21f63f756e9e08fcebdeb4a4dcc29f49097d1
+[NotebookApp | INFO] Kernel started: 509e2e4a-d706-4d21-89f7-e4c146a52acc
+[NotebookApp | INFO] 302 GET /notebooks/seminars/test.png (::1) 1.53ms
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (2/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (3/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (4/5), new random ports
+[NotebookApp | WARNING] KernelRestarter: restart failed
+[NotebookApp | WARNING] Kernel 509e2e4a-d706-4d21-89f7-e4c146a52acc died, removing from map.
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io/pydj
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8890/?token=1f044914bfa01d064167144b06ed6d24f659b3ced240500f
+[NotebookApp | INFO]  or http://127.0.0.1:8890/?token=1f044914bfa01d064167144b06ed6d24f659b3ced240500f
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/allat/Library/Jupyter/runtime/nbserver-4049-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=1f044914bfa01d064167144b06ed6d24f659b3ced240500f
+     or http://127.0.0.1:8890/?token=1f044914bfa01d064167144b06ed6d24f659b3ced240500f
+[NotebookApp | INFO] Kernel started: 4b270268-5ef5-4076-bf0f-4fa383c6ff9d
+[NotebookApp | INFO] 302 GET /notebooks/seminars/test.png (::1) 1.55ms
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (2/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (3/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (4/5), new random ports
+[NotebookApp | INFO] Kernel interrupted: 4b270268-5ef5-4076-bf0f-4fa383c6ff9d
+[NotebookApp | WARNING] KernelRestarter: restart failed
+[NotebookApp | WARNING] Kernel 4b270268-5ef5-4076-bf0f-4fa383c6ff9d died, removing from map.
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io/pydj
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8891/?token=305a3aa175deb4d29a35e2ca57aa7c16850c5268ed618d1e
+[NotebookApp | INFO]  or http://127.0.0.1:8891/?token=305a3aa175deb4d29a35e2ca57aa7c16850c5268ed618d1e
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/allat/Library/Jupyter/runtime/nbserver-4066-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/?token=305a3aa175deb4d29a35e2ca57aa7c16850c5268ed618d1e
+     or http://127.0.0.1:8891/?token=305a3aa175deb4d29a35e2ca57aa7c16850c5268ed618d1e
+[NotebookApp | INFO] Kernel started: 9838ddc5-3c4d-4abd-a641-32fb9918c5d7
+[NotebookApp | INFO] 302 GET /notebooks/seminars/test.png (::1) 1.54ms
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (2/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (3/5), new random ports
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io/pydj
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8892/?token=11e3f26a52e634e74d518c3050d9e46f16112677b4848cdd
+[NotebookApp | INFO]  or http://127.0.0.1:8892/?token=11e3f26a52e634e74d518c3050d9e46f16112677b4848cdd
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/allat/Library/Jupyter/runtime/nbserver-4091-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8892/?token=11e3f26a52e634e74d518c3050d9e46f16112677b4848cdd
+     or http://127.0.0.1:8892/?token=11e3f26a52e634e74d518c3050d9e46f16112677b4848cdd
+[NotebookApp | INFO] Kernel started: 48ca001f-6217-4b06-9787-b9d927c45124
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (2/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (3/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (4/5), new random ports
+[NotebookApp | WARNING] KernelRestarter: restart failed
+[NotebookApp | WARNING] Kernel 48ca001f-6217-4b06-9787-b9d927c45124 died, removing from map.
