@@ -1,0 +1,83 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8890/?token=ed4abbc7c1663b01747c2e7afc6870e6ab5b84c6d4aa3e3b
+[NotebookApp | INFO]  or http://127.0.0.1:8890/?token=ed4abbc7c1663b01747c2e7afc6870e6ab5b84c6d4aa3e3b
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/allat/Library/Jupyter/runtime/nbserver-3208-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=ed4abbc7c1663b01747c2e7afc6870e6ab5b84c6d4aa3e3b
+     or http://127.0.0.1:8890/?token=ed4abbc7c1663b01747c2e7afc6870e6ab5b84c6d4aa3e3b
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+    
+[NotebookApp | INFO] Kernel started: 8d09164c-76aa-4555-8789-365e01eeff54
+[NotebookApp | INFO] 302 GET /notebooks/pyall/seminars/test.png (::1) 1.99ms
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (2/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (3/5), new random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (4/5), new random ports
+[NotebookApp | WARNING] KernelRestarter: restart failed
+[NotebookApp | WARNING] Kernel 8d09164c-76aa-4555-8789-365e01eeff54 died, removing from map.
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8891/?token=6b77e963fa611c3e1735b913afd56ce8bdeeb0a46f157d6f
+[NotebookApp | INFO]  or http://127.0.0.1:8891/?token=6b77e963fa611c3e1735b913afd56ce8bdeeb0a46f157d6f
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/allat/Library/Jupyter/runtime/nbserver-3252-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/?token=6b77e963fa611c3e1735b913afd56ce8bdeeb0a46f157d6f
+     or http://127.0.0.1:8891/?token=6b77e963fa611c3e1735b913afd56ce8bdeeb0a46f157d6f
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8892/?token=310fd428177aa1605105f38968690393f874920290cd454c
+[NotebookApp | INFO]  or http://127.0.0.1:8892/?token=310fd428177aa1605105f38968690393f874920290cd454c
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/allat/Library/Jupyter/runtime/nbserver-3282-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8892/?token=310fd428177aa1605105f38968690393f874920290cd454c
+     or http://127.0.0.1:8892/?token=310fd428177aa1605105f38968690393f874920290cd454c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8799/?token=56b1489e0da592fbca5649142d60d272c62e29cb447ba8f5
+[NotebookApp | INFO]  or http://127.0.0.1:8799/?token=56b1489e0da592fbca5649142d60d272c62e29cb447ba8f5
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/allat/Library/Jupyter/runtime/nbserver-3302-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8799/?token=56b1489e0da592fbca5649142d60d272c62e29cb447ba8f5
+     or http://127.0.0.1:8799/?token=56b1489e0da592fbca5649142d60d272c62e29cb447ba8f5

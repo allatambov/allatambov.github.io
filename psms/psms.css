@@ -3,31 +3,23 @@ body {
   font-size: 14pt;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  padding: 0px;
-  width: 40%;
-}
-
-ul li {
-  background: #47476b;
-  padding: 15px;
-  margin: 10px;
-  font-family: Trebuchet MS, sans-serif;
-}
-
-li a {
-  color: white;
-}
-
 a {
   text-decoration: none;
+  color: #00b33c;
 }
 
 h1 {
   color: #007acc;
+}
+
+div.block {
+  width: 80%;
+}
+
+div.block h3 {
+  border-left: 6px solid #ff0066;
+  border-spacing: 15px;
+  background-color: lightgrey;
 }
 
 .sidenav {
@@ -51,28 +43,23 @@ h1 {
 }
 
 .sidenav p {
-  color:white;
+  color: white;
   padding: 16px 8px 6px 16px;
+  font-size:12px;
 }
 
 .sidenav a:hover {
   color: #ff0066;
   }
-  
+
 .sidenav a:visited {
   color: #818181;
 }
+
 
 .main {
   margin-left: 300px; /* Same as the width of the sidenav */
   padding: 0px 10px;
 }
-
-
-
-
-
-
-
 
 
