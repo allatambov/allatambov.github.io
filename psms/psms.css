@@ -3,7 +3,7 @@ body {
   font-size: 13pt;
 }
 
-a {
+a, a:visited {
   text-decoration: none;
   color: #00b33c;
 }
@@ -34,7 +34,7 @@ div.block h3 {
   padding-top: 20px;
 }
 
-.sidenav a {
+.sidenav a, .sidenav a:visited {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 18pt;
@@ -49,17 +49,12 @@ div.block h3 {
 }
 
 .sidenav a:hover {
-  color: #ff0066;
+  border-left: 4px solid #ff0066;
   }
-
-.sidenav a:visited {
-  color: #818181;
-}
 
 
 .main {
   margin-left: 300px; /* Same as the width of the sidenav */
   padding: 0px 10px;
 }
-
 
