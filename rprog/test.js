@@ -15,7 +15,7 @@ function countdown(element, point){
   	var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   	var seconds = Math.floor((distance % (1000 * 60)) / 1000);
   	
-  	res = days + "d " + hours + "h "+ minutes + "m " + seconds + "s "
+  	res = days + "д " + hours + "ч "+ minutes + "мин " + seconds + "с "
   	document.getElementById(element).innerHTML = res;
 
 	if (distance < 0) {
