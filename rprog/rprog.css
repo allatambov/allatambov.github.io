@@ -1,0 +1,86 @@
+body {
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 13pt;
+}
+
+h1 {
+  color: #007acc;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #00b33c;
+}
+
+a.button {
+  color: black;
+}
+
+button {
+  height: 20pt;
+  font-size: 12pt;
+}
+
+div.block {
+  width: 80%;
+}
+
+div.block h3 {
+  border-left: 6px solid #ff0066;
+  border-spacing: 15px;
+  background-color: lightgrey;
+}
+
+.main {
+  margin-left: 300px; /* Same as the width of the sidenav */
+  padding: 0px 10px;
+}
+
+.sidenav {
+  height: 300%;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a, .sidenav a:visited {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 18pt;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  border-left: 4px solid #ff0066;
+  }
+
+.sidenav p {
+  color: white;
+  padding: 16px 8px 6px 16px;
+  font-size:12px;
+}
+
+.row {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.column {
+    display: table-cell;
+    margin: 0 auto;
+} 
+
+.timer {
+  margin: 0 auto;
+}
+
+
+
+
