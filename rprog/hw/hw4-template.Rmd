@@ -1,14 +1,6 @@
 ---
 title: "Домашнее задание 4"
-output:
-  html_document:
-    df_print: paged
-  pdf_document: default
-header-includes:
-- \usepackage[russian]{babel}
-- \usepackage{hyperref}
-- \usepackage{graphics}
-- \hypersetup{ colorlinks = true, urlcolor = blue}
+output: html_document
 ---
 
 Большинство задач в домашнем задании по R предполагают автоматическое тестирование кода. Если хотите пользоваться встроенными в файл тестами, установите с Github библиотеку `testrmd` (достаточно установить один раз для всех последующих заданий):
