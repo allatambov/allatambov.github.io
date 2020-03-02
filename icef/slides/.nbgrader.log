@@ -1,0 +1,299 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Dropbox/ВШЭ - работа/Кафедра высшей математики/2019-2020/Python 3b
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=26638060e8b6c497d077fafe9579377a2c402d9eb9f95d4d
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=26638060e8b6c497d077fafe9579377a2c402d9eb9f95d4d&token=26638060e8b6c497d077fafe9579377a2c402d9eb9f95d4d
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] 302 GET / (::1) 0.72ms
+[NotebookApp | INFO] Uploading file to /1.png
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 1.25ms
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/2.png (::1): No such file or directory: 2.png
+[NotebookApp | WARNING] 404 GET /notebooks/2.png (::1) 11.80ms referer=http://localhost:8889/notebooks/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Uploading file to /2.png
+[NotebookApp | INFO] Uploading file to /3.png
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 1.30ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 1.41ms
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:f769b9cf83ed42638a2fb59e636a6f8c
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 0.97ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 0.93ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 0.71ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/Users/allat/Dropbox/ВШЭ - работа/Кафедра высшей математики/2019-2020/Python 3b/slides.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:e052e12a821d4921867a2ad9a5bed626
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 1.11ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 1.10ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 1.40ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:4a7ea04a0015412b893cd9fbaf874b8c
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 1.25ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 1.08ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 0.85ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:75ed62f0acb940258d0e2dcabc108b08
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 0.75ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 0.74ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 0.72ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:e59276af335b40c886062c0034009282
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 0.75ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 0.70ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:e5f8bf8509ae4d54bfd04956a2d29565
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 1.34ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 0.82ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 0.76ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:56588edc2ef44da484af123742c4b1b1
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 1.05ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 0.74ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:075170f4bbd44cafb25d0cb6359f7b0a
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 0.95ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 0.87ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 0.92ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:ec3f6d074df140988ec6e0ef25121bcc
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 1.16ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 0.73ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 0.81ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Uploading file to /py1.gif
+[NotebookApp | INFO] 302 GET /notebooks/py1.gif (::1) 1.25ms
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Uploading file to /py1.jpg
+[NotebookApp | INFO] 302 GET /notebooks/py1.jpg (::1) 0.90ms
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:f22e36d5aec44958980d77bed273f03e
+[NotebookApp | INFO] 302 GET /notebooks/py1.jpg (::1) 0.91ms
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 0.75ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 1.04ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:f270bb0c25f446f991583d1ad8b80cc3
+[NotebookApp | INFO] 302 GET /notebooks/py1.jpg (::1) 1.09ms
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 0.71ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 1.27ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 0.82ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | WARNING] delete /1.png
+[NotebookApp | INFO] Uploading file to /1.png
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:725120bd9d734ada844a4fd516e58eaa
+[NotebookApp | INFO] Kernel restarted: 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Restoring connection for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:725120bd9d734ada844a4fd516e58eaa
+[NotebookApp | INFO] Replaying 9 buffered messages
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:725120bd9d734ada844a4fd516e58eaa
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Restoring connection for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:725120bd9d734ada844a4fd516e58eaa
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | WARNING] delete /3.png
+[NotebookApp | INFO] Uploading file to /3.png
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Uploading file to /4.png
+[NotebookApp | WARNING] 404 GET /notebooks/4.jpg (::1): No such file or directory: 4.jpg
+[NotebookApp | WARNING] 404 GET /notebooks/4.jpg (::1) 1.80ms referer=http://localhost:8889/notebooks/slides.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/4.png (::1) 1.27ms
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:725120bd9d734ada844a4fd516e58eaa
+[NotebookApp | INFO] 302 GET /notebooks/py1.jpg (::1) 1.47ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 0.82ms
+[NotebookApp | INFO] 302 GET /notebooks/4.png (::1) 0.89ms
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 0.87ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 0.77ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:3ea1c210e3ee458fb2d5e67f7b2e7121
+[NotebookApp | INFO] 302 GET /notebooks/py1.jpg (::1) 1.31ms
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 1.11ms
+[NotebookApp | INFO] 302 GET /notebooks/2.png (::1) 0.83ms
+[NotebookApp | INFO] 302 GET /notebooks/3.png (::1) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/4.png (::1) 1.19ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6140cfee-5e68-433d-af24-a0f0ff7dbb3a
+[NotebookApp | INFO] 302 GET /notebooks/py2.png (::1) 0.83ms
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for 6140cfee-5e68-433d-af24-a0f0ff7dbb3a:d1dae8af33ae4ccd97a67f4abd7946b7
+[NotebookApp | INFO] 302 GET / (::1) 5.13ms
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 781e67dd-2857-4296-b2c8-c43676d9123b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 781e67dd-2857-4296-b2c8-c43676d9123b
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Starting buffering for 781e67dd-2857-4296-b2c8-c43676d9123b:b731e0fd270b43449079bdf004d7e7a5
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Dropbox/ВШЭ - работа/Кафедра высшей математики/2019-2020/Python DJ
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=1beb3d1c3e2b454e0fd3a1dfe9c0d588cc0fb5ed128fa940
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=1beb3d1c3e2b454e0fd3a1dfe9c0d588cc0fb5ed128fa940&token=1beb3d1c3e2b454e0fd3a1dfe9c0d588cc0fb5ed128fa940
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | WARNING] 404 GET /notebooks/3.png (::1): No such file or directory: 3.png
+[NotebookApp | WARNING] 404 GET /notebooks/3.png (::1) 15.15ms referer=http://localhost:8889/notebooks/slides.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/py1.jpg (::1) 1.46ms
+[NotebookApp | WARNING] 404 GET /notebooks/1.png (::1): No such file or directory: 1.png
+[NotebookApp | WARNING] 404 GET /notebooks/1.png (::1) 2.02ms referer=http://localhost:8889/notebooks/slides.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/2.png (::1): No such file or directory: 2.png
+[NotebookApp | WARNING] 404 GET /notebooks/2.png (::1) 1.86ms referer=http://localhost:8889/notebooks/slides.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/py2.png (::1) 1.24ms
+[NotebookApp | WARNING] 404 GET /notebooks/4.png (::1): No such file or directory: 4.png
+[NotebookApp | WARNING] 404 GET /notebooks/4.png (::1) 1.93ms referer=http://localhost:8889/notebooks/slides.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Starting buffering for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | INFO] Restoring connection for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/py1.jpg (::1) 1.53ms
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/1.png (::1) 0.93ms
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] Saving file at /slides.ipynb
+[NotebookApp | INFO] 302 GET / (::1) 1.09ms
+[NotebookApp | INFO] Starting buffering for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | INFO] Restoring connection for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Starting buffering for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | INFO] Restoring connection for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Starting buffering for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | INFO] Restoring connection for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Starting buffering for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | INFO] Restoring connection for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Starting buffering for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | INFO] Restoring connection for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Starting buffering for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | INFO] Restoring connection for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Starting buffering for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | INFO] Restoring connection for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Starting buffering for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | INFO] Restoring connection for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Starting buffering for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c259951f-5d31-4f97-890f-10f5baf08164
+[NotebookApp | INFO] Restoring connection for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7
+[NotebookApp | INFO] Starting buffering for c259951f-5d31-4f97-890f-10f5baf08164:ae5246abf631427d84896e8706ae10a7

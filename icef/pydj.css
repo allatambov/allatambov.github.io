@@ -1,0 +1,70 @@
+body {
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 13pt;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #00b33c;
+}
+
+h1 {
+  color: #007acc;
+}
+
+div.block {
+  width: 80%;
+}
+
+div.block h3 {
+  border-left: 6px solid #ff0066;
+  border-spacing: 15px;
+  background-color: lightgrey;
+}
+
+button {
+  height: 40px;
+  font-size: 16pt;
+
+}
+
+a.clickon {
+  color: black;
+}
+
+.sidenav {
+  height: 300%;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a, .sidenav a:visited {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 18pt;
+  color: #818181;
+  display: block;
+}
+
+.sidenav p {
+  color: white;
+  padding: 16px 8px 6px 16px;
+  font-size:12px;
+}
+
+.sidenav a:hover {
+  border-left: 4px solid #ff0066;
+  }
+
+
+.main {
+  margin-left: 300px; /* Same as the width of the sidenav */
+  padding: 0px 10px;
+}
+
