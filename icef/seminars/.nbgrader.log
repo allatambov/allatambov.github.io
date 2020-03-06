@@ -1,0 +1,482 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io/pydj/seminars
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=00540deded667aa416642f09f603f777f8082267345421f2
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=00540deded667aa416642f09f603f777f8082267345421f2&token=00540deded667aa416642f09f603f777f8082267345421f2
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Kernel restarted: f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | INFO] Replaying 10 buffered messages
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:b276b18de7914682a9ddb85c892ece28
+[NotebookApp | WARNING] Notebook intro-variables.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4e25189c-82b3-4914-8d89-5ace427b0353
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4e25189c-82b3-4914-8d89-5ace427b0353
+[NotebookApp | INFO] Starting buffering for 4e25189c-82b3-4914-8d89-5ace427b0353:3a4de7e15ece425984133d3373d868f5
+[NotebookApp | INFO] Copying intro-variables.ipynb to 
+[NotebookApp | WARNING] Notebook intro-variables.ipynb is not trusted
+[NotebookApp | WARNING] Notebook intro-variables-Copy1.ipynb is not trusted
+[NotebookApp | WARNING] Notebook intro-variables-Copy1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:6b2a153793ea43a5838be0aa6fc94237
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:6b2a153793ea43a5838be0aa6fc94237
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:6b2a153793ea43a5838be0aa6fc94237
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:6b2a153793ea43a5838be0aa6fc94237
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:6b2a153793ea43a5838be0aa6fc94237
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:6b2a153793ea43a5838be0aa6fc94237
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:6b2a153793ea43a5838be0aa6fc94237
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0dbd3fe-82ff-419f-a374-eeb13bab6d13
+[NotebookApp | INFO] Restoring connection for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:6b2a153793ea43a5838be0aa6fc94237
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Saving file at /intro-types-en.ipynb
+[NotebookApp | INFO] Starting buffering for f0dbd3fe-82ff-419f-a374-eeb13bab6d13:6b2a153793ea43a5838be0aa6fc94237
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 18ee555e-10ce-4360-a08d-f225168866f1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 18ee555e-10ce-4360-a08d-f225168866f1
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Starting buffering for 18ee555e-10ce-4360-a08d-f225168866f1:63558192f7644aed81af30e86d078dda
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 18ee555e-10ce-4360-a08d-f225168866f1
+[NotebookApp | INFO] Restoring connection for 18ee555e-10ce-4360-a08d-f225168866f1:63558192f7644aed81af30e86d078dda
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Starting buffering for 18ee555e-10ce-4360-a08d-f225168866f1:63558192f7644aed81af30e86d078dda
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /intro-variables-en.ipynb
+[NotebookApp | WARNING] Notebook intro-variables-en.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ea5c95d1-8086-4e0c-a5d7-71bdd81eab87
+[NotebookApp | INFO] Restoring connection for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | INFO] Starting buffering for ea5c95d1-8086-4e0c-a5d7-71bdd81eab87:eab75d1877bc463d82eefcfe81aedf59
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/allatambov.github.io/pydj/seminars
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=80686dd662b8e2c15352e0ea21808d26dbf764bda5f41892
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=80686dd662b8e2c15352e0ea21808d26dbf764bda5f41892&token=80686dd662b8e2c15352e0ea21808d26dbf764bda5f41892
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 381c6c11-946a-486f-a462-19b2a5906df3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 381c6c11-946a-486f-a462-19b2a5906df3
+[NotebookApp | INFO] Saving file at /seminar3.ipynb
+[NotebookApp | INFO] Saving file at /seminar3.ipynb
+[NotebookApp | INFO] Saving file at /seminar3.ipynb
+[NotebookApp | INFO] Saving file at /seminar3.ipynb
+[NotebookApp | INFO] Saving file at /seminar3.ipynb
+[NotebookApp | INFO] Saving file at /seminar3.ipynb
+[NotebookApp | INFO] Saving file at /seminar3.ipynb
+[NotebookApp | INFO] Saving file at /seminar3.ipynb
+[NotebookApp | INFO] Saving file at /seminar3.ipynb
+[NotebookApp | INFO] Starting buffering for 381c6c11-946a-486f-a462-19b2a5906df3:755e0ca6f9ac45eebc8042ddb38214fc
