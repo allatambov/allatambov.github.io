@@ -6,6 +6,9 @@ countdown('timer4', "Mar 26, 2020 18:00:00");
 countdown('timer5', "Mar 30, 2020 23:59:59");
 countdown('timer6', "Apr 13, 2020 18:00:00");
 countdown('timer7', "Apr 16, 2020 23:59:59");
+countdown('timer8', "Apr 25, 2020 23:59:59");
+countdown('timer9', "Apr 28, 2020 23:59:59");
+countdown('timer10', "May 2, 2020 23:59:59");
 
 function countdown(element, point){
 
