@@ -12,6 +12,28 @@ h1 {
   color: #007acc;
 }
 
+td {
+  padding: 0px 10px 0px 0px;
+}
+
+button {
+  background-color: #007acc;
+  border-radius: 4px;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 13pt;
+  font-weight: bold;
+  height: 75px;
+  width: 100px;
+}
+
+a.button, a.button:visited {
+  text-decoration: none;
+  color: white;
+}
+
 div.block {
   width: 80%;
 }
@@ -20,6 +42,7 @@ div.block h3 {
   border-left: 6px solid #ff0066;
   border-spacing: 15px;
   background-color: lightgrey;
+  font-size: 13pt;
 }
 
 .sidenav {
