@@ -18,10 +18,10 @@ cor(dat$cheer, dat$grump)
 dat2 <- subset(dat, dat$grump < 105)
 cor(dat2$cheer, dat2$grump)
 
-# hypothesis about correlation
-cor.test(dat2$tech, dat2$reaction)
-
 # by definition
-sx <- sd(dat2$tech)
-sy <- sd(dat2$reaction)
-cov(dat2$tech, dat2$reaction) / (sx * sy)
+sx <- sd(dat2$cheeze)
+sy <- sd(dat2$cheer)
+cov(dat2$cheeze, dat2$cheer) / (sx * sy)
+
+# hypothesis about correlation
+cor.test(dat2$cheeze, dat2$cheer)
