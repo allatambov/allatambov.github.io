@@ -14,11 +14,12 @@ chipdale <- na.omit(chipdale)
 summary(chipdale)
 
 # hypothesis about proportion
-prop.test(24, 66, p = 0.25)
-prop.test(24, 66, p = 0.25, alternative = "greater")
+prop.test(24, 66, p = 0.25) # H0: p = 0.25
+prop.test(24, 66, p = 0.25, alternative = "greater") # H1: p > 0.25
 
 # hypothesis about mean
-t.test(chipdale$cheeze, mu = 70)
+t.test(chipdale$cheeze, mu = 70) # H0: mu = 70
 
 # hypothesis about two means
-t.test(chipdale$tech ~ chipdale$spec)
+t.test(chipdale$tech ~ chipdale$spec) #H0: mu_pa = mu_pg
+
