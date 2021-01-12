@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Визуализации</title>
+		<meta charset=utf-8>
+		<link rel="icon" href="hh1.png">
+		<link rel="stylesheet" href="main.css">
+		<script src="script.js"></script>
+	</head>
+
+	<div class="topnav">
+  		<a class="active" href="#home">Главная страница</a>
+  		<a href="#contact">Контакты</a>
+	</div>
+
+	<div class="main">
+			<h1>
+				Визуализации для теории вероятностей и статистики
+			</h1>
+			<p>
+				На этой странице содержатся визуализации, созданные для курсов по теории вероятностей 
+				и статистике, читаемых в 2020-2021 учебном году в НИУ ВШЭ на факультете социальных наук 
+				и факультете медиакоммуникаций, медиа и дизайна. 
+			</p>
+			<p>
+				Преподаватель: Тамбовцева Алла, НИУ ВШЭ
+			</p>
+			<p>
+				Визуализации созданы с помощью:
+				<ul>
+					<li>языка программирования R;</li>
+					<li>средств RMarkdown;</li>
+					<li>библиотеки Shiny.</li>
+				</ul>
+			</p>
+
+			<div class="tab">
+  				<button class="tablinks" onclick="openCity(event, 'prob')" id="defaultOpen">
+  					Теория вероятностей
+  				</button>
+  				<button class="tablinks" onclick="openCity(event, 'stat')">
+  					Статистика
+  				</button>
+			</div>
+
+			<div id="prob" class="tabcontent">
+ 				<h3>Теория вероятностей</h3>
+  				<ul>
+  					<li>Элементы комбинаторики</li>
+  					<li>Дискретные случайные величины</li>
+  					<li>Непрерывные случайные величины</li>
+  					<li>Основные распределения вероятностей</li>
+  				</ul>
+  				<button>Перейти</button>
+			</div>
+
+			<div id="stat" class="tabcontent">
+  				<h3>Статистика</h3>
+  				<ul>
+  					<li>Генеральная совокупность и выборка </li>
+  					<li>Статистические законы</li>
+  					<li>Описательные статистики</li>
+  					<li>Доверительные интервалы</li>
+  					<li>Проверка статистических гипотез</li>
+  				</ul> 
+  				<button>Перейти</button>
+			</div>
+	</div>
+
+	<script>
+		document.getElementById("defaultOpen").click();
+	</script>
+
+</html>
